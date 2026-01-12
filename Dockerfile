@@ -1,1 +1,4 @@
-helooo
+heloo
+workdir
+copy
+o
